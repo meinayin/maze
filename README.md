@@ -1,6 +1,6 @@
 # maze
 Not your typical maze, but a maze with gravity and velovity! :crystal_ball::earth_asia::milky_way:
-- Utilized **Matter.js** library. 
+- Utilized **Matter.js** library. Super fun to work with! Checkout the demos below.
 > Matter.js is a JavaScript 2D rigid body physics engine for the web https://brm.io/matter-js/
 - Play with Demos https://brm.io/matter-js/demo/#mixed
 
